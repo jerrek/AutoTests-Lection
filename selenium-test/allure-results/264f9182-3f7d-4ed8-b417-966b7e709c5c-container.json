@@ -1,0 +1,1 @@
+{"uuid":"264f9182-3f7d-4ed8-b417-966b7e709c5c","name":"BaseClass.beforeMethod","description":"Инициализация браузера","start":1543789536165,"stop":1543789540094,"children":["e2c5849b-975b-489a-9211-ecafb89abf3d"],"befores":[{"name":"Инициализация браузера","status":"passed","stage":"finished","description":"Инициализация браузера","start":1543789536165,"stop":1543789540094}]}

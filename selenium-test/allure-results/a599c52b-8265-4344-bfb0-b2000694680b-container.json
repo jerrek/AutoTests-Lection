@@ -1,0 +1,1 @@
+{"uuid":"a599c52b-8265-4344-bfb0-b2000694680b","name":"BaseClass.afterMethod","description":"Закрытие браузера","start":1543789544746,"stop":1543789544796,"children":["e2c5849b-975b-489a-9211-ecafb89abf3d"],"afters":[{"name":"Закрытие браузера","status":"passed","stage":"finished","description":"Закрытие браузера","start":1543789544746,"stop":1543789544796}]}
